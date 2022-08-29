@@ -1,0 +1,10 @@
+.heading {
+    color: rgb(155, 76, 76);
+    font-size: 20px;
+}
+body {
+    background-color: rgb(209, 192, 192);
+}
+.post-block {
+    border: 1px solid black;
+}
